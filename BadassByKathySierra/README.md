@@ -2,6 +2,8 @@
 
 Kathy Sierra is a total Rock Star. Besides developing the Head First series which has helped numerous coders and coders-to-be, she has also authored this book which is so worth reading for the experience of witnessing an educator practice what she preaches. The notes below are a brief summary and highlights from the book, but they cannot do justice to the *experience* of reading the book, through which you can see exactly how to do what she prescribes. Plus, it's funny as hell. (I don't know why hell is funny--don't ask--that's just an expression I like.) So the notes below will be handy reminders of the nuggets of wisdom she shares, but they'll be more meaningful *after* reading [the book](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019).
 
+N.B.: I use the words "app", "tool", and "product" interchangeably. They all refer to whatever you are making that you want to provide to the world.
+
 ## Why should we make our users badass?
 
 Short answer: Because this is what drives the success of our product; what makes it desirable to our audience.
@@ -40,21 +42,37 @@ Excited? I am. Let's go into more details about each of these below!
 
 ## Help Them Keep Wanting to Get Better
 
+Spoiler alert: intrinsic lack of motivation is usually not the reason users stop using our app, or stop improving at their given context. Most of our users are already motivated to become good at whatever they've chosen to use our tool to help them do. E.g., if you have a task management tool you are offering, your user has chosen to get that tool *because* they **want** to get better at task management. They've already got a healthy dose of motivation. When their motivation to get better at task management flags, it's not because they don't care about it anymore, it's because of one (or more) of three things:
+
+- unanticipated difficulties ("Jeez, I didn't think it'd be this hard!")
+- loss of vision ("How is it that I'm going to get better at this?")
+- not enough cognitive resources due to leaks ("I just can't seem to make progress or focus enough to get this done!")
+
+Our knee-jerk reaction to seeing users' motivation decline is to try and up the incentives: "This is so totally worth doing!! Hang in there! Look at how bright the light at the end of the tunnel is! Don't you want that? Yeah, you do. You just need to want it more, and then you'll become badass!"
+
+This is an understandable response, but also a totally misguided (aka, useless) one. Instead, we should:
+
 ### Focus on what makes them stop
 
-Our two main enemies here are the Gap of Suck and the Gap of Disconnect.
+Our users are motivated, excited, and ready to go! Then they start using our tool, and start trying to become awesome at some endeavor, and "Splat!", it happens. They've fallen into a pit, and can't seem to get out. The two main places they fall into are *the Gap of Suck* and *the Gap of Disconnect*.
 
 #### The Gap of Suck
 
 Problem:
+> I really want to be good at managing my time. I bought this app that's supposed to help me track how I spend my time, so I can start using my time more efficiently. I've been using it a week now and I still don't seem to feel any more relaxed, or efficient, or good at time management. I guess I'm just not the kind of person who can be good at this. Or maybe my life is just one that is hopelessly out of control. I give up.
 
 Solution:
+> Prepare users for how difficult the endeavor is *before* they start using your tool. Give them a clear picture of what the path to progress looks like, what kind of timeline is realistic, and assure them that struggling on the road to expertise is **totally normal, expected, and not a big deal**. Anticipate and acknowledge all the potential difficulties and roadblocks they may face. Compensate for the inability of your users to let you know immediately what they are struggling with by speaking to your user as if you were there when they make that face of frustration and discouragement. Sure, some users may not struggle at every point where they potentially could, but it's better to err on the side of compensating. If they are breezing through a trouble spot, they'll feel pretty awesome for doing so good right now; and if they are struggling at that spot, they'll be encouraged by your feedback. Always remind users that the struggles they will face are *typical* and *temporary*. And if part of the struggle they face is not just because of the context, but also because of some deficiency in your tool, then **tell them!** If you are honest with your users, their trust in you and your app goes way up.
+
+To get ideas of what common roadblocks are for a given context, look at online forums related to that context, or user reviews and feedback for tools that are similar in purpose to the one you are providing. This can give you a clue about which issues you need to compensate for and address.
 
 #### The Gap of Disconnect
 
 Problem:
+> I've been using this app religiously for two weeks now, but the only thing it seems to care about is that I keep using it! I check in everyday and record how I'm spending my time and it sends me little notifications about how awesome I am for recording my time, but it doesn't tell me how it is helping me get better at time management. I can't see the point of doing it anymore. I'll probably save more time by *not* using it.
 
 Solution:
+> Be very explicit about exactly how your app will help the user become good at what they care about. Explain the method behind your madness! And make sure that everything your app does **is** geared toward helping the user master their chosen endeavor.
 
 ### Help them with progress and payoffs
 
