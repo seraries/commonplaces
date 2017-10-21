@@ -101,3 +101,40 @@ The opportunities to use the skills they've built so far should come early and o
 > "The ideal user path is a continuous series of loops, each with a motivating next superpower goal, skill building work with exposure-to-good-examples, followed by a payoff. Payoffs are not external rewards; they’re the hard-earned benefits of effort.""
 
 ## Reduce Cognitive Resource Leaks
+
+We've learned more about how we can help our users get better and how we can keep them wanting to get better. But we can't do either of these things if our users's cognitive resources are drained. So we need to design our tool in a way that respects our users's attention, time, and energy.
+
+Learning new skills and developing expertise require both focus and willpower. The important thing to know is that *both* focus and willpower use up cognitive resources--concentration and determination both come from the same tank; draining one will drain the other. So we must make our app as intuitive and easy to use as possible so that our users can spend their cognitive resources mastering the context and not trying to figure out our tool.
+
+> "Every moment spent struggling with a confusing UI, frustrating customer service, poor documentation, or anything requiring patience, self-control, or intense concentration on the tool could be stealing resources from learning, practice, and becoming badass at the thing they really care about: the context."
+
+Some key things to note:
+
+- the **Zeigarnik Effect**: unfinished tasks or concerns that linger in the back of our minds ("I'm 98% sure I did this right...") drain cognitive resources
+- "knowledge in the world" preserves more cognitive resources than "knowledge in the mind" (a remote control with clearly labeled buttons versus a remote control with unlabeled buttons but a description in the user manual for what they do that you need to memorize)
+- the "power of affordances": make the right thing to do the most likely thing to do (make the right thing to do easy and obvious; make the wrong thing to do difficult and unintuitive)
+- choices are cognitively expensive: give users fewer choices and they'll spend less time deciding and second-guessing
+- deliberate practice is cognitively draining, so make everything *around* practicing easy to do (suggest practice hacks, tracking apps, consistent reminder system, building habits/routine, etc.)
+- design your tool as though your users *had absolutely no willpower*; what would your tool have to do in order to help your user make progress in their chosen context
+- help users build an identity around their context: if someone thinks of herself as a runner, it makes it easier for her to get up in the morning and run (which still requires willpower, but less willpower than if she didn't have that identity)
+- help your user pay attention (help your app's content to escape the brain's spam filter) by getting the brain to agree that "this matters, I should pay attention and remember it". To do so, remember and incorporate **what brains care about**:
+    - scary, threatening things
+    - faces showing strong emotions
+    - young, helpless things (cue the puppy and kitten photos)
+    - things that cause feelings (even if we don't know why), emotional responses
+    - odd, surprising, unexpected things
+    - cliffhangers ("what happens next?"); the Zeigarnik effect can also be a useful tool
+    - visceral examples relevant to your domain:
+    > "Though you could get their attention with something totally unrelated to what they’re trying to learn, it’s far better for learning and retention if the feeling you evoke to get their attention is about what you want them to remember."
+
+- present the important info *first*. Rivet the users's attention (don't expect them to invest minutes of reading before they "get to the interesting/impactful part")
+- reduce the content that you present; if it is not absolutely necessary for the user to know this, then don't waste their attention on it. Not sure if it's necessary? When in doubt, cut it out! Don't use "intellectual curiosity" as an excuse to leave it in
+    - put each topic on trial: *why* must our user know it?
+    - map that knowledge to a skill: verify that you absolutely can't do this vital skill you need to be able to do *without* this information
+- present information **just-in-time** not just-in-case. Any necessary facts that users need to know should be presented at precisely the moment *when they will use that information*. Don't tell users about something that may be useful later on; tell them about it only when they will need it
+
+## Conclusion
+
+Design our app for the experience we want users to have *after* using our app; for how it can help them become not just badass at the domain for which they are using our app, but for how it can help them become badass at life. Ask ourselves about the use of our app:
+> "What did that experience **enable**? What can they now **do**? What can they now **show others**? What will they **say** to others? How are they now **more powerful**? 
+What happens *after* the UX drives our success. It’s what drives our users to talk about and recommend us, and it’s what leaves our users so obviously better that they might not need to."
