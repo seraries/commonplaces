@@ -1,4 +1,4 @@
-# Notes from Kathy Sierra's **Badass: Making Users Awesome**
+# Notes from Kathy Sierra's *Badass: Making Users Awesome*
 
 Kathy Sierra is a total Rock Star. Besides developing the Head First series which has helped numerous coders and coders-to-be, she has also authored this book which is so worth reading for the experience of witnessing an educator practice what she preaches. The notes below are a brief summary and highlights from the book, but they cannot do justice to the *experience* of reading the book, through which you can see exactly how to do what she prescribes. Plus, it's funny as hell. (I don't know why hell is funny--don't ask--that's just an expression I like.) So the notes below will be handy reminders of the nuggets of wisdom she shares, but they'll be more meaningful *after* reading [the book](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019).
 
@@ -12,11 +12,11 @@ Long answer: We want our tool to make our users badass at the context for which 
 
 ## What is "badass"?
 
-"Badass" means expertise. Badass users are users who excel at the context they care about. A badass user of a photography app is a badass (expert) photographer. We want to help the users of our tool develop expertise at whatever they are using our tool *for*.
+"Badass" means expert. Badass users are users who excel at the context they care about. A badass user of a photography app is an expert photographer. We want to help the users of our tool develop expertise at whatever they are using our tool *for*.
 
-## Okay, but *how* do I make my app's users badass?
+## Okay, but *how* do I make my product's users badass?
 
-The first step is to put your users first; think about them before you think about your "brand" or your business. As Kathy Sierra says, "If we **really** care about our users, we'll help them do what **they** want, not what *we* want."
+You've got to put your users first; think about them before you think about your "brand" or your business. As Kathy Sierra says, "If we **really** care about our users, we'll help them do what **they** want, not what *we* want."
 
 Once you've made that cognitive and motivational shift, you're ready to re-think your product so that *its purpose* is making your users badass at the context they care about (the goal that is motivating them to use your app in the first place).
 
@@ -36,12 +36,12 @@ Excited? I am. Let's go into more details about each of these below!
 
 ## Help Them Actually Get Better
 
-Our goal should not be on simply getting users to be good at using our tool; our goal should be to help users become experts at the context/domain for which they are using our tool. Becoming badass is becoming an expert.
+Our goal should not be on simply getting users to be good at using our tool; our goal should be to help users become experts at the context/domain for which they are using our tool. Remember, becoming badass is becoming an expert.
 > "Experts are not what they know but what they do. Repeatedly."
 
 Experts consistently make superior choices. To know what constitutes a "superior" choice, you need to create a definition of badass ("expert") for your tool and its context. How will a user know when they are badass? What do "experts" reliably do better than "non-experts"?
 
-Next, you need to help your users develop expertise. This requires that you implement some form of two key methods in your tool: deliberate practice and perceptual exposure.
+Next, you need to help your users develop this expertise. This requires that you implement some form of two key methods in your tool: deliberate practice and perceptual exposure.
 
 ### Help them practice right
 
@@ -79,7 +79,7 @@ You don't have to be able to explain what makes good examples good (most experts
 
 ## Help Them Keep Wanting to Get Better
 
-Spoiler alert: intrinsic lack of motivation is usually not the reason users stop using our app, or stop improving at their given context. Most of our users are already motivated to become good at whatever they've chosen to use our tool to help them do. E.g., if you have a task management tool you are offering, your user has chosen to get that tool *because* they **want** to get better at task management. They've already got a healthy dose of motivation. When their motivation to get better at task management flags, it's not because they don't care about it anymore, it's because of one (or more) of three things:
+Spoiler alert: intrinsic lack of motivation is usually not the reason users stop using our app, or stop improving at their given context. Most of our users are already motivated to become good at whatever they've chosen to use our tool to help them do. For example, if you have a task management tool you are offering, your user has chose that tool *because* they **wanted** to get better at task management. So they've already got a healthy dose of motivation. When their motivation to get better at task management flags, it's not because they don't care about it anymore, it's because of one (or more) of the following three things:
 
 - unanticipated difficulties ("Jeez, I didn't think it'd be this hard!")
 - loss of vision ("How is it that I'm going to get better at this?")
@@ -109,7 +109,7 @@ Problem:
 > I've been using this app religiously for two weeks now, but the only thing it seems to care about is that I keep using it! I check in everyday and record how I'm spending my time and it sends me little notifications about how awesome I am for recording my time, but it doesn't tell me how it is helping me get better at time management. I can't see the point of doing it anymore. I'll probably save more time by *not* using it.
 
 Solution:
-> Be very explicit about exactly how your app will help the user become good at what they care about. Explain the method behind your madness! And make sure that everything your app does **is** geared toward helping the user master their chosen endeavor.
+> Be very explicit about exactly **how** your app will help the user become good at what they care about. Explain the method behind your madness! And make sure that everything your app does **is** geared toward helping the user master their chosen endeavor.
 
 ### Help them with progress and payoffs
 
