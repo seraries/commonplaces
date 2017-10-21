@@ -36,9 +36,46 @@ Excited? I am. Let's go into more details about each of these below!
 
 ## Help Them Actually Get Better
 
+Our goal should not be on simply getting users to be good at using our tool; our goal should be to help users become experts at the context/domain for which they are using our tool. Becoming badass is becoming an expert.
+> "Experts are not what they know but what they do. Repeatedly."
+
+Experts consistently make superior choices. To know what constitutes a "superior" choice, you need to create a definition of badass ("expert") for your tool and its context. How will a user know when they are badass? What do "experts" reliably do better than "non-experts"?
+
+Next, you need to help your users develop expertise. This requires that you implement some form of two key methods in your tool: deliberate practice and perceptual exposure.
+
 ### Help them practice right
 
+Experts don't necessarily practice *more* than non-experts, but they do practice *better*. The most effective practice method is called **deliberate practice**. Deliberate practice focuses on making key skills automatic by moving one bite-size "subskill" at a time along the skill continuum from "Can't do" through "Can do with effort" to "Mastered/Automatic".
+
+A key thing to remember is that practice does not necessarily make perfect, but **practice makes permanent**. So if you practice being mediocre at a skill, you will make mediocre performance of that skill a permanent habit. By using the deliberate practice method, you focus on one small subskill and practice doing it perfectly until it becomes automatic, then you move on to another small subskill and so forth. Tackling too big of a skill or too many subskills at a time is what leads to mediocre ability. How do you know what if a subskill is small enough to use for deliberate practice?
+
+> "Pick a small sub-skill/task that you can’t do reliably (or at all), and get it to 95% reliability within three 45-90 minute sessions. (Getting to 95% in a single session is often better)."
+
+For more ideas on how to implement deliberate practice, check out the [Cambridge Handbook of Expertise and Expert Performance](https://www.amazon.com/Cambridge-Expertise-Performance-Handbooks-Psychology/dp/1316502619/).
+
+Note that occasionally you will need to de-automate a skill and re-master it if it was not automated correctly and is therefore impeding your progress with other skills. These inferior unconscious/automated skills are often the source of the "intermediate blues". Fixing them (one at a time) can help us move past a plateau.
+
+> "The skills we use but don’t consciously practice can slowly deteriorate, even if we’re using them every day. The  phrase “use it or lose it” is misleading. “Using it” is not enough."
+
+Also, there are some learning tasks that are *not* deliberate practice, but are still worth doing, such as working through a step-by-step tutorial, working on a project, listening to a lecture, etc.
+
 ### Help them get exposure to the right things
+
+Another way that users can become experts is by perceptual exposure. This is a "learning by doing" process of performing a task and getting immediate feedback on whether it was right or not and learning to recognize what makes for "right" simply through a high volume of attempts, or exposures, with feedback. You may not learn exactly *why* something is good or correct, but it does become engrained and automatic. By encountering a wide variety of similar situations and subliminally discovering patterns common to them, you develop a sense for how something should be in that domain.
+
+The key to using this in your app is to expose users to a variety of good examples of their context and let their brains subconsciously determine the patterns that make those examples good (e.g., if you have a photography tool, expose users to a wide variety of photos that are examples of the Rule of Thirds).
+
+On the flip-side, be careful not to expose users to "bad" examples. Even if you tell them "this is what not to do", their brains are subconsciously processing it as a valid example. For instance, showing students learning to program a lot of bad code and telling them not to do these things can backfire. Their brains may pick up the patterns in those bad code examples and be tempted to automatically repeat them.  
+
+Reasons why perceptual exposure may not work are usually the following:
+
+- not enough examples
+- not enough diversity in the examples
+- too long a gap between exposure and feedback
+- attribute/pattern was too subtle
+
+You don't have to be able to explain what makes good examples good (most experts can't explain how they know what they know),
+> "You just need to expose your users to a high quantity of high quality examples, within a compressed time."
 
 ## Help Them Keep Wanting to Get Better
 
@@ -136,5 +173,5 @@ Some key things to note:
 ## Conclusion
 
 Design our app for the experience we want users to have *after* using our app; for how it can help them become not just badass at the domain for which they are using our app, but for how it can help them become badass at life. Ask ourselves about the use of our app:
-> "What did that experience **enable**? What can they now **do**? What can they now **show others**? What will they **say** to others? How are they now **more powerful**? 
+> "What did that experience **enable**? What can they now **do**? What can they now **show others**? What will they **say** to others? How are they now **more powerful**?
 What happens *after* the UX drives our success. It’s what drives our users to talk about and recommend us, and it’s what leaves our users so obviously better that they might not need to."
