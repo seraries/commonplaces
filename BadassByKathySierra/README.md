@@ -76,4 +76,28 @@ Solution:
 
 ### Help them with progress and payoffs
 
+In addition to reducing the derailing impact of roadblocks for our users, we should also help them keep their motivation when they are feeling that "This is going to take me *forever* to become good at!"
+
+Two key ways we can do this are by providing users with a clear path to mastery (progress) and the experience of the benefits of getting better (payoffs).
+
+#### Progress
+
+To keep users engaged and encouraged, provide them with a descriptive overview of their path to mastery and continual feedback/updates about where they are in this process.
+
+> To create a mastery path: "Make a list of key skills ordered from beginner to expert, then slice them into groups to make ranks/levels. For motivation, the earlier, lower levels should be achievable in far less time and effort than the later, advanced levels. One possibility is to have each new level take roughly double the time and effort of the previous level."
+
+- great example is the martial arts belts system: shows a clear progression of skills and what is needed to get to the next stage
+- make sure that your progression map is performance/skills-based and highlights what users should be able to *do* at each stage, not what they should *learn*
+- seeing that you are making progress **is motivating**. (It's not about the belt, it's about what the belt represents: that you are making progress.)
+
+#### Payoffs
+
+The opportunities to use the skills they've built so far should come early and often. Users should feel like they are masters of *this stage* of the process for whichever stage they are at. They should see some meaningful benefit to attempting this endeavor, and to using your tool, within 30 minutes of beginning.
+
+- users may feel fear when they first attempt something, so anticipate and compensate these fears--reassure the user they won't break anything, that it is safe to experiment, recovery will be easy
+- ask: "What’s the smallest step they can take that leaves them feeling more creative, smart, powerful, capable? What’s the smallest step that gives a hint of future power?"
+- focus on intrinsic ("I can use professional jargon now; I'm an insider! I actually *understand* what this stack overflow post is saying!"), not extrinsic ("I just got five badges to share on Facebook") rewards
+
+> "The ideal user path is a continuous series of loops, each with a motivating next superpower goal, skill building work with exposure-to-good-examples, followed by a payoff. Payoffs are not external rewards; they’re the hard-earned benefits of effort.""
+
 ## Reduce Cognitive Resource Leaks
